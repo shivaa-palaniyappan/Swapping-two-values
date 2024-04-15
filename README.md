@@ -31,9 +31,9 @@ print("Swapped values are:",surya , vijay);
 ```
 
 
-## RESULT:
+## output:
 ![image](https://github.com/shivaa-palaniyappan/Swapping-two-values/assets/146915611/28b099e4-c145-4d11-bf6b-00bc116fcd2e)
-
+## RESULT:
 Thus the swapping of two values are successfully executed
 
 
